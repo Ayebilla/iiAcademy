@@ -1,0 +1,22 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+
+# Ignore environment folders
+.env/
+venv/
+.env
+*.pkl
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Jupyter notebooks outputs
+.ipynb_checkpoints/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+.env
+iiacademy/
