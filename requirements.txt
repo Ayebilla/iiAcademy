@@ -1,0 +1,9 @@
+chainlit>=1.0.0
+langchain>=0.1.0
+langchain-openai>=0.0.1
+python-dotenv>=1.0.0
+scikit-learn>=1.0.0
+pandas>=2.0.0
+numpy>=1.20.0
+gensim>=4.0.0
+joblib>=1.0.0
